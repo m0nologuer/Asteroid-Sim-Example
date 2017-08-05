@@ -46,11 +46,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Asteroid-Unity-master\AsteroidMaterial.cs" />
-     <Compile Include="Assets\Asteroid-Unity-master\AsteroidObject.cs" />
-     <Compile Include="Assets\Asteroid-Unity-master\AsteroidObjectList.cs" />
-     <Compile Include="Assets\Asteroid-Unity-master\Buffer.cs" />
-     <Compile Include="Assets\Asteroid-Unity-master\GenerateAsteroidScene.cs" />
+     <Compile Include="Assets\Asteroid-Unity\AsteroidConstraint.cs" />
+     <Compile Include="Assets\Asteroid-Unity\AsteroidMaterial.cs" />
+     <Compile Include="Assets\Asteroid-Unity\AsteroidObject.cs" />
+     <Compile Include="Assets\Asteroid-Unity\AsteroidObjectList.cs" />
+     <Compile Include="Assets\Asteroid-Unity\Buffer.cs" />
+     <Compile Include="Assets\Asteroid-Unity\GenerateAsteroidScene.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
